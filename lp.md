@@ -1,19 +1,12 @@
 categories:
   - Kubernetes
 description: Get started using Kubernetes. Learn the kubernetes concepts by doing.
-isDraft: false
 isAvailable: true
-isNew: false
+isNew: true
 isPremium: false
-license: Apache
 scenarioCount: 6
 state: approved
 scenarios:
-  - Exploring Kubernetes Deployments
-  - Creating a Kubernetes Deployment
-  - Communication among different containers in a Pod
-  - How to run multiple Containers in a Pod
-  - Formatting Kubectl Output
-  - Init Containers
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/kubernetes.png
-title: Start with Kubernetes
+  - Exploring Deployments
+  - Creating a Deployment
+title: Start with Kubernetes test SA

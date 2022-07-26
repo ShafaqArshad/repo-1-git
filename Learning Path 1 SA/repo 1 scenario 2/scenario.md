@@ -2,6 +2,7 @@ title: repo 1 scenario 2
 description: understanding Golang test scenario 1
 time: 25 minutes 
 steps:
+  - Capture.PNG
   - step1.md 
   - step2.md 
   - step3.md 

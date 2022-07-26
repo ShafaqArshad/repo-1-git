@@ -14,6 +14,8 @@ You will get a list of options like `-v`, management commands like `network` and
 
 If you need more help with a specific command like `cp` or `rmi` , you need to type:
 
+![flower](flower.jpg)
+
 {{ execute }}
 ```
 docker cp --help

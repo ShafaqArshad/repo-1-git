@@ -1,4 +1,4 @@
-title: SceNario with image
+title: Scenario with image
 description: understanding Golang test scenario 1
 time: 25 minutes
 steps:

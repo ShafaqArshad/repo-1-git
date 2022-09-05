@@ -2,7 +2,7 @@ title: Test Scenario Resync
 description: understanding Golang test scenario 1
 time: 25 minutes
 steps:
-  - step2.md
+  - step1.md
 isNew: true
 isPremium: true
 isAvailable: true
